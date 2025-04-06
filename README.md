@@ -4,6 +4,7 @@
 
 # Arcana Script Documentation
 [Ir a la documentacion]((https://www.notion.so/Unit-Testing-1c754017cf6f8163823ddaa8fa80ef0f?pvs=4))
+https://www.notion.so/The-Great-Hall-1c754017cf6f8195baf4e966089621e3?pvs=4
 
 # Flex-Bison-Compiler
 
